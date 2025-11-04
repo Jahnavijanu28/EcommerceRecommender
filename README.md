@@ -1,4 +1,4 @@
-# 🛍️ Amazon Product Recommendation System based on reviews
+# 🛍️ Amazon Product Recommendation System based on Reviews
 ## Real-Time ML + NLP Recommendations
 
 A complete end-to-end machine learning project implementing a scalable, real-time amazon product recommendation system using Neural Networks and Natural Language Processing. Using Amazon Product Reviews (Kaggle) https://www.kaggle.com/datasets/gzdekzlkaya/amazon-product-reviews-dataset/data
