@@ -413,17 +413,6 @@ curl -X POST http://localhost:8000/recommend \
 - Use early stopping (patience=5)
 - Monitor AUC and Precision@K
 
----
-
-## 📚 References
-
-- [Neural Collaborative Filtering Paper](https://arxiv.org/abs/1708.05031)
-- [DeepFM Paper](https://arxiv.org/abs/1703.04247)
-- [FastAPI Documentation](https://fastapi.tiangolo.com/)
-- [Streamlit Documentation](https://docs.streamlit.io/)
-
----
-
 ## 🤝 Contributing
 
 Contributions welcome! Areas for improvement:
