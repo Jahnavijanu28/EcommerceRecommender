@@ -430,9 +430,3 @@ MIT License - Feel free to use for the projects!
 
 ---
 
-## 👤 Author
-- GitHub: https://github.com/Jahnavijanu28
-- LinkedIn: https://www.linkedin.com/in/jahnavi-amilineni-1681341b3/
-- Email: jahnaviamilineni28@gmail.com
-
----
